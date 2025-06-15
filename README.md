@@ -3,9 +3,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-  <link rel="stylesheet" href="File/jemdoc.css" type="text/css" />
   <title>ImageMatching_papers</title>
+  <link rel="stylesheet" href="File/jemdoc.css" type="text/css" />
 </head>
 <body>
   <ul>
@@ -16,5 +15,6 @@
   </ul>
 </body>
 </html>
+
 
 
