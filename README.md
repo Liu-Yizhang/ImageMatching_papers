@@ -4,10 +4,8 @@
 <head>
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="Files/jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="File/jemdoc.css" type="text/css" />
 
-
-<title>Yizhang Liu</title>
 
 </head> 
 <body>
