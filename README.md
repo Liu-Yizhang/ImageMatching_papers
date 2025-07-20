@@ -3,7 +3,7 @@
 - [] , ' [[pdf]]()
 - [] , ' [[pdf]]()
 - [] , ' [[pdf]]()
-- [] , ' [[pdf]]()
+
 - 
 - 
 - 
@@ -36,6 +36,7 @@
 - [RoSe] RoSe: Rotation-Invariant Sequence-Aware Consensus for Robust Correspondence Pruning, MM'2024 [[pdf]](https://dl.acm.org/doi/abs/10.1145/3664647.3681124)
 - [CLDS] Consensus Learning with Deep Sets for Essential Matrix Estimation, NeurIPS'2024 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b7f09d26f9b64b5430402860158c2e19-Abstract-Conference.html)
 - [PMA-Net] PMA-Net: Progressive multi-stage adaptive feature learning for two-view correspondence, KBS'2024 [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005616)
+- [MSGSA] Multi-Stage Network With Geometric Semantic Attention for Two-View Correspondence Learning, TIP'24 [[pdf]](https://ieeexplore.ieee.org/document/10508303)
 - [RoMa] RoMa: Robust Dense Feature Matching, CVPR'2024 [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Edstedt_RoMa_Robust_Dense_Feature_Matching_CVPR_2024_paper.pdf)
 - [ACMatch] ACMatch: Improving context capture for two-view correspondence learning via adaptive convolution, JPRS'2024 [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S092427162400412X)
 - [ELoFTR] Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed, CVPR'2024 [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Efficient_LoFTR_Semi-Dense_Local_Feature_Matching_with_Sparse-Like_Speed_CVPR_2024_paper.pdf)
