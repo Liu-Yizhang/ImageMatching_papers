@@ -8,7 +8,7 @@
 - [SDC] Smoothness-Driven Consensus Based on Compact Representation for Robust Feature Matching, TNNLS'2021 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9578940)
 - [LGSC] Robust image matching via local graph structure consensus, PR'2022 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320322000693)
 - [MCDM] Feature Matching via Motion-Consistency Driven Probabilistic Graphical Model, IJCV'22 [[pdf]](https://link.springer.com/article/10.1007/s11263-022-01644-2)
-- [] , ' [[pdf]]()
+- [CoMatch] CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching, ICCV'25 [[pdf]](https://arxiv.org/pdf/2503.23925)
 - [] , ' [[pdf]]()
 - [] , ' [[pdf]]()
 - [] , ' [[pdf]]()
